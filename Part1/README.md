@@ -1,7 +1,7 @@
 # Mutex and Channel basics
 
 ### What is an atomic operation?
-> *Your answer here*
+> *jeg er en sopp*
 
 ### What is a semaphore?
 > *Your answer here*
